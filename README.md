@@ -29,7 +29,7 @@ For additional functionalities, such as varlen training and inference support, s
 ## 📢 Latest Updates
 - `03/12/2026`: 🔥🔥 Gated DeltaNet has been incorporated in the amazing [Olmo Hybrid](https://allenai.org/blog/olmohybrid) model !
 - `02/17/2026`: 🔥🔥 Gated DeltaNet is now powering the incredible [Qwen3.5](https://qwen.ai/blog?id=qwen3.5) model !
-- `09/10/2025`: 🔥🔥 Gated DeltaNet has been integated as the linear component of [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list) !
+- `09/10/2025`: 🔥🔥 Gated DeltaNet has been integated as the linear component of  the great [Qwen3-Next](https://qwen.ai/blog?id=4074cca80393150c248e508aa62983f9cb7d27cd&from=research.latest-advancements-list) model !
 - `02/23/2025`: 🔥 Check out the optimized [Gated DeltaNet FLA kernels](https://github.com/NVlabs/GatedDeltaNet/blob/main/lit_gpt/gated_delta_rule_ops/fla_version/) with significantly faster speed.
 - `02/22/2025`: 🔥 Gated DeltaNet is available in [FLA](https://github.com/fla-org/flash-linear-attention/tree/main/fla/ops/gated_delta_rule) !
 - `01/22/2025`: 🔥🔥 Gated DeltaNet has been accepted to ICLR '25.
